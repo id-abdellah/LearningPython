@@ -1,0 +1,25 @@
+Built-in Functions
+
+- all(iterable)
+- any(iterable)
+- bin(num)
+- id(var)
+
+- sum(iterable, startValue?)
+- round(float, nDigits?)
+- range(start?, end, step?)
+- print()
+
+- abs(num) 
+- pow(base, exp, modulus)
+- min(item, item, item, ... or Iterator)
+- max(item, item, item, ... or Iterator)
+- iterator[slice(start, stop, step)]
+
+- enumerate(iterable, start)
+- helpe(method)
+- reversed(iterator)
+
+- map(function, iterator)
+- filter(function, iterator)
+- reduce(function, iterator) => from functools import reduce
