@@ -29,7 +29,7 @@ else:
 # all عكس ال any ال
 
 # true هو list الا كان على الاقل عنصر واحد فال true كترد any حيت ال
-# false فكترجع false الا كان عنصر واحد
+# false كترجع false الا كان كولشي
 
 if any(a):
     print("there is at least one true element")
