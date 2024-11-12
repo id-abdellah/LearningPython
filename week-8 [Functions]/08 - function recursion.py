@@ -19,6 +19,6 @@ def cleanWord(word):
 
     return word[0] + cleanWord(word[1:])
 
-print(cleanWord("wwwooorrllllldddd"))
-print(cleanWord("mmooohhaameeeedd"))
+print(cleanWord("wwwooorrllllldddd")) # world
+print(cleanWord("mmooohhaameeeedd")) # mohamed
 

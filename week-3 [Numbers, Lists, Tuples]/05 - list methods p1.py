@@ -5,8 +5,8 @@
 # append(obj: any)
 # extend(iterable) => the same thing as spread operator in js
 # remove(value)
-# sort(reverse=False | True) => reverse by default is False
-# reverse() => reverse list
+# sort(reverse=False | True) => reverse by default is False. mutate original array
+# reverse() => reverse list. and mutate original array
 # ------------------------------------
 
 

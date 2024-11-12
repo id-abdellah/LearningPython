@@ -28,9 +28,8 @@ def sayHi(name):
 help(sayHi)
 print(sayHi.__doc__)
 
-
-    # This is Function to say hello to a person name
-    # params:
-    #     name => str
-    # output:
-    #     just printing in the console
+# This is Function to say hello to a person name
+# params:
+#     name => str
+# output:
+#     just printing in the console

@@ -2,16 +2,16 @@
 # --- string methods p1 ---
 # -------------------------
 #
-# len(obj) => return the length of given data type. str, list, tuple, dict. but int not
+# len(obj) => return the length of given data type. str, list, tuple, dict. but "int" not
 #
-# upper() => Convert string to upperCase
-# lower() => convert string to lowerCase
-# strip(chars) => return copy of string with leading and trailing whitspaces removed if no chars was provided
+# .upper() => Convert string to upperCase
+# .lower() => convert string to lowerCase
+# .strip(chars) => return copy of string with leading and trailing whitspaces removed if no chars was provided
 #                 if chars was provided it will remove the leading and trailing chars instead
-# rstrip(chars) & lstrip(charts)
-# title() => return copy of string with every word is capitalized, letter after nums are included
-# capitalize() => return copy of string capitalize only the first letter of it
-# zfill() => Pad a numeric string with zeros on the left, to fill a field of the given width.
+# .rstrip(chars) & lstrip(charts)
+# .title() => return copy of string with every word is capitalized, letter after nums are included
+# .capitalize() => return copy of string capitalize only the first letter of it
+# .zfill() => Pad a numeric string with zeros on the left, to fill a field of the given width.
 # ------------------------------------
 
 
